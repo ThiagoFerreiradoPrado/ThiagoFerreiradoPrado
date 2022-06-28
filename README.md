@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Thiago Ferreira ☕
+### Olá! Eu sou Thiago Ferreira  ☕
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagofprado/)
 [![Youtube](https://img.shields.io/badge/YouTube-4B0082?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBd1hmtGj11MFzi_x0cktrw)
