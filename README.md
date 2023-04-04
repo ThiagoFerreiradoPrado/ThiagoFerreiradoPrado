@@ -2,9 +2,6 @@
 ### Olá! Eu sou Thiago Ferreira  ☕
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagofprado/)
-[![Youtube](https://img.shields.io/badge/YouTube-4B0082?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBd1hmtGj11MFzi_x0cktrw)
-[![Twitch](https://img.shields.io/badge/Twitch-4B0082?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/thiagokenshyn)
-[![Instagram](https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagokenshyn/)
 
 ![Thiago Github stats](https://github-readme-stats.vercel.app/api?username=thiagoferreiradoprado&theme=radical)
 
