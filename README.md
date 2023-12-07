@@ -11,6 +11,7 @@
  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  </div><br/>
  
- Entusiasta da tecnologia, desenvolvimento de Software em aprendizado!</div><br/>
- Cursando Faculdade de Analise e Desenvolvimento de Sistemas 4° Semestre.
+ Graduado em Analise e Desenvolvimento de Sistemas Pela Unip.</div><br/>
+ Entusiasta da tecnologia, desenvolvimento de Software em aprendizado!
+
  
